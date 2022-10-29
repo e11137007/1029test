@@ -1,0 +1,2 @@
+# 1029test
+KNU AI class 20221029
